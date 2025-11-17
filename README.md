@@ -4,7 +4,7 @@ Network Simulation Lab Report – GNS3
 Course: Introduction to Cybersecurity
 Institution: Marian College Kuttikanam (ICTAK Paatshala)
 Topic: Getting Started with Network Simulations using GNS3 (Beginner – No Routers)
-Student Name: Aron Sabu
+Student Name: Aron Sabu Abraham 
 Date: 17/11/2025
 
 
